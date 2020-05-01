@@ -8,3 +8,12 @@ Thus, the SLA ends up being compromised and customers are not served, thus causi
 
 Solution: Creation of a POC to classify the occurrences opened by the RPA system, that did not have all data 
 necessary completed filled out.
+
+Este projeto tem como objetivo manipular informações textuais para várias classificações categóricas.
+
+Problema: Muitas ocorrências não são respondidas porque o sistema RPA, em alguns casos, não é capaz de 
+capturar todas as informações necessárias para a classificação quando a chamada é aberta para ser atendida. 
+Assim, o SLA acaba sendo comprometido e os clientes não são atendidos, causando muitos problemas para a equipe de atendimento.
+
+Solução: Criação de um POC para classificar as ocorrências abertas pelo sistema RPA, que não tiveram todos os 
+dados necessários preenchidos.
